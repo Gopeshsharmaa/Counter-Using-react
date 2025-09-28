@@ -1,16 +1,40 @@
-# React + Vite
+# React Counter Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and interactive **Counter App** built using **React** and **Vite**.  
+This project features animated 3D-like buttons, smooth pop-up effects, and a modern glassmorphism design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+Check it out here: [React Counter Live](https://Gopeshsharmaa.github.io/Counter-Using-react)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Increment, Decrement, and Reset buttons.
+- Smooth pop-up animation on count change.
+- 3D hover effect on the counter card.
+- Modern light purple and glassmorphism design.
+- Fully responsive and interactive UI.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** 19.x
+- **Vite** 7.x
+- **CSS3** for animations and 3D effects
+- **gh-pages** for deployment
+- **Three.js** (optional for future 3D enhancements)
+
+---
+
+## ⚡ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Gopeshsharmaa/Counter-Using-react.git
+cd Counter-Using-react
